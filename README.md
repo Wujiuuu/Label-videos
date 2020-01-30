@@ -1,6 +1,8 @@
 # Label-videos
 modified code from Tensorflow label_image.py
 
+some modification to adapt tensorflow2.0
+
 put label_video and video_files the same folder as label_image and the image_file or you change the path accordingly,
 
 > python tensorflow\examples\label_image\label_video.py --image <video_file_name>
